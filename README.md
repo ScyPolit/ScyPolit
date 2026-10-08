@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-gradient-dark.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-gradient-light.jpg">
-    <img src="./assets/hero-gradient-dark.jpg" alt="SCY 拍摄的暮色跨海大桥" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-original-gradient-dark.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-original-gradient-light.jpg">
+    <img src="./assets/hero-original-gradient-dark.jpg" alt="ScyPolit 拍摄的暮色跨海大桥" width="100%">
   </picture>
 
   <h1>ScyPolit</h1>
