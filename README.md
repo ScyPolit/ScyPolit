@@ -5,7 +5,7 @@
     <img src="./assets/hero-gradient-dark.jpg" alt="SCY 拍摄的暮色跨海大桥" width="100%">
   </picture>
 
-  <h1>SCY</h1>
+  <h1>ScyPolit</h1>
   <p><strong>Full-Stack Engineer · 全栈工程师</strong></p>
   <p>从界面到基础设施，把复杂问题变成清晰、可靠、优雅的产品。</p>
   <p><em>Build thoughtfully. Ship reliably.</em></p>
